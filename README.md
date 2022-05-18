@@ -1,2 +1,4 @@
 # Building-a-Node-Project
-Instructions on how to build a node project
+Step-by-step guide on building a Node project from scratch.
+
+
